@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Swarup
+### NAMASTE🙏,I'm Swarup
 #### Developer| Singer
 I'm from Odisha, India. I'm a student. Currently I'm pursuing my bachelor's degree in Computer Application (BCA). I'm a quite optimistic, practical and thoughtful person and a quick learner and observer. I believe in teamwork. My hobbies are singing, reading novels, writing poems and short stories. I have started coding in JAVA in 12th standard, although I was not that much frequent at that time. Then again, I started coding during graduation. I'm good at handling Adobe photoshop, Adobe lightroom and Adobe After effect. I love animation and editing photos and videos. Currently learning guitar.
 
@@ -28,4 +28,4 @@ Skills: JS / HTML / CSS /JAVA / Problem Solving
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SanSwarup)  
 
-![Profile views](https://gpvc.arturio.dev/SanSwarup)  
+![Visitor Count](https://profile-counter.glitch.me/{SanSwarup}/count.svg)  
