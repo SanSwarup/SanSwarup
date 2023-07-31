@@ -22,7 +22,7 @@ Skills: JS / HTML / CSS /JAVA / Problem Solving.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanSwarup)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanSwarup&show_icons=true)
+![SanSwarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent_icons=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/SanSwarup)  
 
