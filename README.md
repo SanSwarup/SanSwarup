@@ -2,7 +2,7 @@
 #### Developer| Singer
 I'm from Odisha, India. I'm a student. Currently I'm pursuing my Master's degree in Computer Application (MCA). I'm a quite optimistic, practical and thoughtful person and a quick learner and observer. I believe in teamwork. My hobbies are singing, reading novels, writing poems and short stories. I have started coding in JAVA in 12th standard, although I was not that much frequent at that time. Then again, I started coding during graduation. I'm good at handling Adobe photoshop, Adobe lightroom and Adobe After effect. I love animation and editing photos and videos. Currently learning guitar.
 
-Skills: JS / HTML / CSS /JAVA / Problem Solving.
+Skills: AI & Machine Learning / Pyhton /JAVA / Problem Solving / HTML and CSS.
 
 ![Mastermind, Pixel Jeff](https://user-images.githubusercontent.com/122181079/211220308-a18353fd-b30b-4b84-b52f-7d441debd981.gif)
 
