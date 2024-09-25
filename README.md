@@ -24,7 +24,7 @@ Skills: AI & Machine Learning / Pyhton /JAVA / Problem Solving / HTML and CSS.
 
 ![Swarup's Stats](https://github-readme-stats.vercel.app/api?username=Swarup&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub metrics](https://metrics.lecoq.io/SanSwarup)  
+![Swarup's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swarup&theme=dark&hide_border=true) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SanSwarup)  
 
