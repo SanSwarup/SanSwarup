@@ -7,7 +7,7 @@ I'm from Odisha, India. I'm a student. Currently I'm pursuing my Master's degree
 ![Mastermind, Pixel Jeff](https://user-images.githubusercontent.com/122181079/211220308-a18353fd-b30b-4b84-b52f-7d441debd981.gif)
 
 - 🔭 I’m currently working on my skills and development. 
-- 🌱 I’m currently learning Python. 
+- 🌱 I’m currently learning DSA. 
 - 💬 Ask me about anything, I'll be glad to help. 
 - 📫 How to reach me: https://www.linkedin.com/in/san-swarup/ 
 - 😄 Pronouns: He/Him 
