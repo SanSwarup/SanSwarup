@@ -1,17 +1,16 @@
 ### NAMASTE🙏,I'm Swarup
 #### Developer| Singer
-I'm from Odisha, India. I'm a student. Currently I'm pursuing my Master's degree in Computer Application (MCA). I'm a quite optimistic, practical and thoughtful person and a quick learner and observer. I believe in teamwork. My hobbies are singing, reading novels, writing poems and short stories. I have started coding in JAVA in 12th standard, although I was not that much frequent at that time. Then again, I started coding during graduation. I'm good at handling Adobe photoshop, Adobe lightroom and Adobe After effect. I love animation and editing photos and videos. Currently learning guitar.
-
+I'm from Odisha, India. I have started my journey as an AiMl enthusiast 2 years ago. Now I am focusing on solving real world problem using aiml. A visionary person who has motives to alter and refurbish the technical stats of India. I want to contribute for people's growth and education through my skills and wisdom. I love philosophical debates and short stories of Dostevsky. The journey of contribution and growth starts from 5/01/25
 #### Skills: AI & Machine Learning / BCI(Brain-Computer Interface) / Pyhton / DSA / Problem Solving / TensorFlow.
 
 ![Mastermind, Pixel Jeff](https://user-images.githubusercontent.com/122181079/211220308-a18353fd-b30b-4b84-b52f-7d441debd981.gif)
 
 - 🔭 I’m currently working on my skills and development. 
-- 🌱 I’m currently learning DSA. 
+- 🌱 I’m currently learning DSA and ML model designing. 
 - 💬 Ask me about anything, I'll be glad to help. 
 - 📫 How to reach me: https://www.linkedin.com/in/san-swarup/ 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: This world will be a better place without racism and casts. 
+- ⚡ Fun fact: I love my cat, he woke me up for programing so that I can learn , earn and feed him:)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SanSwarup)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/san-swarup/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100058545522156)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/l__swarup__l/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@sanswarup3198)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/@me)  
